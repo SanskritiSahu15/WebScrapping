@@ -1,0 +1,11 @@
+urls = [
+    "https://msme.gov.in/1-prime-ministers-employment-generation-programme-pmegp",
+    "https://msme.gov.in/development-khadi-village-and-coir-industries",
+    "https://msme.gov.in/1-marketing-promotion-schemes#A22",
+    "https://msme.gov.in/technology-upgradation-and-quality-certification",
+    "https://msme.gov.in/entrepreneurship-and-skill-development-programs",
+    "https://msme.gov.in/infrastructure-development-program",
+    "https://msme.gov.in/establishment-new-technology-centres-extension-centres-under-hub-spoke-model",
+    "https://msme.gov.in/scheme-surveys-studies-and-policy-research",
+    "https://msme.gov.in/promotion-msmes-ner-and-sikkim"
+]
